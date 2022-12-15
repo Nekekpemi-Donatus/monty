@@ -13,7 +13,7 @@ Monty 0.98 is a scripting language that is first compiled into Monty byte codes 
 1. Clone the repository:
 
 ```console
-https://https://github.com/Giddyware/monty.git
+https://https://github.com/Nekekpemi-Donatus/monty.git
 ```
 
 ## Usage
@@ -70,4 +70,4 @@ builders.c  helper.c   hsh          README.md  test
 
 ### Authors
 
-[Ade Pelumi ](https://github.com/Giddyware)
+Nekekpemi-Donatus
